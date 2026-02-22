@@ -1,1 +1,19 @@
 # PRODIGY_DS_02
+- Gender and Survival
+- Females had a significantly higher survival rate compared to males.
+- This reflects the “women and children first” evacuation priority.
+- Passenger Class and Survival
+- 1st class passengers had the highest survival chances.
+- 3rd class passengers had the lowest, showing socio‑economic status played a major role.
+- Age and Survival
+- Children had better survival rates than adults and seniors.
+- Age alone wasn’t strongly correlated, but grouping revealed clear differences.
+- Fare and Survival
+- Higher fares were positively associated with survival.
+- Wealthier passengers (often in 1st class) had better access to lifeboats.
+- Embarked Port and Survival
+- Passengers from Cherbourg (C) showed higher survival rates compared to Southampton (S).
+- This may reflect differences in cabin allocation and socio‑economic background.
+- Correlation Insights
+- Survival positively correlated with Fare, negatively with Pclass.
+- Family variables (SibSp, Parch) had weaker but noticeable effects.
